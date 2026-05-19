@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh pr *)",
+      "Bash(mkdir -p /c/laragon/www/soal/public/js)"
+    ],
+    "additionalDirectories": [
+      "C:\\laragon\\www\\soal\\public"
+    ]
+  }
+}
